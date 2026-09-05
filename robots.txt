@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hsmart.info/sitemap.xml
